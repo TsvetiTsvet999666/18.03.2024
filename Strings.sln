@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha1", "Zadachi\Zadacha1.csproj", "{C900AA25-4A6F-433D-AF66-A20A769A3437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha2", "Zadacha2\Zadacha2.csproj", "{C6503E22-FED5-43E5-BF4B-B65C9CCFD464}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha3", "Zadacha3\Zadacha3.csproj", "{EA337244-4143-4214-A5BA-C16768A06F6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C900AA25-4A6F-433D-AF66-A20A769A3437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C900AA25-4A6F-433D-AF66-A20A769A3437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C900AA25-4A6F-433D-AF66-A20A769A3437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C900AA25-4A6F-433D-AF66-A20A769A3437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6503E22-FED5-43E5-BF4B-B65C9CCFD464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6503E22-FED5-43E5-BF4B-B65C9CCFD464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6503E22-FED5-43E5-BF4B-B65C9CCFD464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6503E22-FED5-43E5-BF4B-B65C9CCFD464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA337244-4143-4214-A5BA-C16768A06F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA337244-4143-4214-A5BA-C16768A06F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA337244-4143-4214-A5BA-C16768A06F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA337244-4143-4214-A5BA-C16768A06F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D55D2C4-694A-411E-9A88-595AF10A4830}
+	EndGlobalSection
+EndGlobal
